@@ -2,7 +2,7 @@
 
 A Python scraper that extracts product data from Amazon store pages, paired with a React dashboard for visualizing and exploring the collected data.
 
-![Dashboard Preview](screenshot.png)
+![Dashboard Preview](dashboard-preview.png)
 
 ## Features
 
